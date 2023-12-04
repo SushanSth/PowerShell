@@ -1,4 +1,6 @@
-﻿# Define the names of the VPN connections corresponding to AOVPN User Tunnel and AOVPN Device Tunnel
+#Updating IpInterfaceMetric and NetworkOutageTime in AOVPN User and Device Tunnel in Rasphone.pbk
+ 
+# Define the names of the VPN connections corresponding to AOVPN User Tunnel and AOVPN Device Tunnel
 $userTunnelVpnConnectionName = "AOVPN User Tunnel"
 $deviceTunnelVpnConnectionName = "AOVPN Device Tunnel"
 
